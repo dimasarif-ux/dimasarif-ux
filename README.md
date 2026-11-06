@@ -1,4 +1,4 @@
-<img src="./autumn-banner.svg" width="100%">
+<img src="./autumn-banner_1.svg" width="100%">
 
 <div align="center">
 
