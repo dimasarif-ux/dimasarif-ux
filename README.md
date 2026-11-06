@@ -34,7 +34,7 @@
 <img src="./tagline.svg" width="100%">
 
 <p align="center">
-  <a href="https://github.com/dimasarif-ux"><img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=e8672b" alt="GitHub Followers"></a>
+  <a href="https://github.com/dimasarif-ux"><img src="https://img.shields.io/github/followers/dimasarif-ux?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=e8672b" alt="GitHub Followers"></a>
 </p>
 
 <img src="./autumn-footer.svg" width="100%">
