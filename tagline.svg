@@ -25,7 +25,7 @@
   <text x="600" y="48" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" letter-spacing="8" fill="#ffb98a" opacity="0.9">&gt; DIMAS ARIEF MARYADI</text>
   <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" text-anchor="middle" fill="url(#neon)" filter="url(#glow)">
     <text x="600" y="100" font-size="38" letter-spacing="3" opacity="0">HELLO, I'M DIMAS<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.27;0.33;1" dur="9s" begin="0s" repeatCount="indefinite"/></text>
-    <text x="600" y="100" font-size="38" letter-spacing="3" opacity="0">BUILDING BETTER THINGS<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.27;0.33;1" dur="9s" begin="3s" repeatCount="indefinite"/></text>
+    <text x="600" y="100" font-size="38" letter-spacing="3" opacity="0">INFORMATION SYSTEMS STUDENT<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.27;0.33;1" dur="9s" begin="3s" repeatCount="indefinite"/></text>
     <text x="600" y="100" font-size="38" letter-spacing="3" opacity="0">ONE COMMIT AT A TIME<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.27;0.33;1" dur="9s" begin="6s" repeatCount="indefinite"/></text>
   </g>
   <rect x="450" y="124" width="300" height="3" rx="1.5" fill="#3a1a2a"/>
