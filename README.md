@@ -4,7 +4,7 @@
 
 <h1>Dimas Arief Maryadi</h1>
 
-**Building better things, one commit at a time.**
+**Information Systems Student**
 
 🍁 紅葉 · Autumn in Japan
 
